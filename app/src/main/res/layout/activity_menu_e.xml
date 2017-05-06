@@ -26,8 +26,7 @@
         android:id="@+id/textView"/>
 
     <TextView
-        android:text="Ketan Susu dengan perpaduan buah durian yang
-        sudah terkenal akan cita rasanya yang wuenak bingitzzz.Buruan cobain..."
+        android:text="Ketan Susu dengan perpaduan buah durian yang sudah terkenal akan cita rasanya yang wuenak bingitzzz.Buruan cobain..."
         android:textStyle="bold"
         android:textSize="@dimen/text_16"
         android:layout_width="wrap_content"

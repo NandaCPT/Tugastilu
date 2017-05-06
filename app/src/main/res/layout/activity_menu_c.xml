@@ -26,9 +26,7 @@
         android:id="@+id/textView"/>
 
     <TextView
-        android:text="Ketan Susu dengan rasa original,
-        karena kesuciannya ini tanpa dipadukan apa apa
-        membuat menu ini lain dari yang lain.Buruan cobain..."
+        android:text="Ketan Susu dengan rasa original,karena kesuciannya ini tanpa dipadukan apa apa membuat menu ini lain dari yang lain.Buruan cobain..."
         android:textStyle="bold"
         android:textSize="@dimen/text_16"
         android:layout_width="wrap_content"

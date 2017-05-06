@@ -26,9 +26,7 @@
         android:id="@+id/textView"/>
 
     <TextView
-        android:text="Ketan Susu dengan lumuran coklat diatasnya,
-        dijamin membuat lidah kamu bergetar saat memakannya sehingga
-        menjadikan menu ini sebagai andalan kami.Buruan cobain..."
+        android:text="Ketan Susu dengan lumuran coklat diatasnya dijamin membuat lidah kamu bergetar saat memakannya sehingga menjadikan menu ini sebagai andalan kami.Buruan cobain..."
         android:textStyle="bold"
         android:textSize="@dimen/text_16"
         android:layout_width="wrap_content"

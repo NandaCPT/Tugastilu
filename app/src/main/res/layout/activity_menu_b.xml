@@ -26,9 +26,7 @@
         android:id="@+id/textView"/>
 
     <TextView
-        android:text="Ketan Susu dengan perpaduan Es Krim diatasnya,
-        dijamin bisa membuat lidah kamu meleleh saat memakannya,
-        menjadikan menu ini sebagai andalan kami.Buruan cobain..."
+        android:text="Ketan Susu dengan perpaduan Es Krim diatasnya,dijamin bisa membuat lidah kamu meleleh saat memakannya,menjadikan menu ini sebagai andalan kami.Buruan cobain..."
         android:textStyle="bold"
         android:textSize="@dimen/text_16"
         android:layout_width="wrap_content"

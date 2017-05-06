@@ -26,9 +26,7 @@
         android:id="@+id/textView"/>
 
     <TextView
-        android:text="Ketan Susu dengan perpaduan keju yang menambah
-        cita rasa asin asin manis yang sangat unik dijamin membuat
-        lidah kamu tergelitik.Buruan cobain..."
+        android:text="Ketan Susu dengan perpaduan keju yang menambah cita rasa asin asin manis yang sangat unik dijamin membuat lidah kamu tergelitik.Buruan cobain..."
         android:textStyle="bold"
         android:textSize="@dimen/text_16"
         android:layout_width="wrap_content"

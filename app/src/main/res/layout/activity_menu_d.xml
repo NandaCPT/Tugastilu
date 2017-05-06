@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/wh"
+    tools:context="com.example.lenovo.tugastilu.MenuD">
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="17dp"
+        android:id="@+id/list_view" />
+
+    <TextView
+        android:text="Deskripsi Ketan Susu Keju:"
+        android:textStyle="bold"
+        android:textSize="@dimen/text_16"
+        android:layout_marginBottom="16dp"
+        android:layout_alignParentTop="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/textView"/>
+
+    <TextView
+        android:text="Ketan Susu dengan perpaduan keju yang menambah
+        cita rasa asin asin manis yang sangat unik dijamin membuat
+        lidah kamu tergelitik.Buruan cobain..."
+        android:textStyle="bold"
+        android:textSize="@dimen/text_16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:layout_marginTop="84dp"
+        android:layout_alignTop="@+id/list_view"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+</RelativeLayout>
